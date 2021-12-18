@@ -11,4 +11,4 @@ makepkg
 sudo pacman -U *code**.zst ||pacman -U *code**.gz
 cd ~
 sudo pacman -Sy nodejs npm htop tmux vim starship
-echo'eval "$(starship init bash)"'
+echo'eval "$(starship init bash)"' >> ~/.bashrc
