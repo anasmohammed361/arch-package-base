@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 read -e -p "Torrent File :" File
 echo $File 
 transmission-daemon
