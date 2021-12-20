@@ -6,7 +6,6 @@ wait
 transmission-daemon &
 pid=$!
 wait $pid
-sleep 5
 transmission-remote -a $File &
 wait
 echo 'type tsm -l for info ||| tsm -t :file_id -r for removing'
