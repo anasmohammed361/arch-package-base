@@ -20,4 +20,4 @@ wait $!
 sleep 1
 yes
 sleep 1
-echo'eval "$(starship init bash)"' >> ~/.bashrc
+echo'eval "$(starship init bash)"' >> ~/.bashrc &
