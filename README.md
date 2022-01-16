@@ -2,6 +2,10 @@
 
 Just run the script files
 
-bash :file-name:
+cd (cloned dir)/
 
-in your cloned directory
+sudo bash yay-install.sh
+
+bash packages.sh
+
+bash bashrc.sh
