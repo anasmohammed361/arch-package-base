@@ -1,1 +1,1 @@
-yay -S nodejs npm htop neofetch  tmux starship visual-studio-code-bin brave-bin vim grub-customizer transmission-cli ksuperkey unzip wps-office mongosh-bin
+nodejs npm htop neofetch  tmux starship visual-studio-code-bin brave-bin vim grub-customizer transmission-cli ksuperkey unzip wps-office mongosh-bin
