@@ -1,3 +1,5 @@
 alias tsm="transmission-remote"
 alias mirror="sudo reflector -l 20 -p http,https --sort rate --save /etc/pacman.d/mirrorlist"
-eval "$(starship init bash)"
+alias torrent="bash ~/.torrent.sh"
+alias rmdep ="yay -Yc"
+alias pac="pacman -Q | wc -l"
